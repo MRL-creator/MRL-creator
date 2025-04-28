@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @MRL-creator
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C\C#\C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+About Me
+Hi! 👋
+I'm a developer who mainly works with Python, and I also have some experience with C and C#.
+I enjoy building tools, automating tasks, and occasionally diving into lower-level programming for performance and learning.
 
-<!---
-MRL-creator/MRL-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Skills
+Python: Scripting, backend development, automation, small apps
+
+C: Low-level programming, basic systems knowledge
+
+C#: Simple desktop applications, Windows tools
+
+🎯 Interests
+Building small, useful projects
+
+Learning new technologies
+
+Writing clean, efficient code
+
+Exploring how things work under the hood
+
+🚀 Currently
+I'm sharpening my Python skills, expanding my C knowledge, and occasionally building with C# when it fits!
