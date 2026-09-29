@@ -2,62 +2,73 @@
 
 <img src="./assetss/21123.gif" width="100%" alt="MRL — Geophysics Engineering × Programming">
 
+<br><br>
+
+# Hey there! 👋 I'm MRL
+
+### 🌍 Geophysics Engineering Student  ·  💻 Programmer  ·  🛠️ Builder
+
 <br>
 
-# Hi, I'm MRL 👋
-
-### Geophysics Engineering Student · Programmer · Builder
-
-<p>
-  <a href="https://github.com/MRL-creator">
-    <img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Geophysics-Engineering-0F4C5C?style=for-the-badge" alt="Geophysics Engineering">
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-</p>
+<a href="https://github.com/MRL-creator">
+  <img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Geophysics-Engineering-164E63?style=for-the-badge" alt="Geophysics Engineering">
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 </div>
 
----
-
-## 🧭 About Me
-
-I'm a **Geophysics Engineering student at the French-Azerbaijani University (UFAZ)** with a strong interest in programming, technology, and building things.
-
-My interests sit at the intersection of:
-
-* 🌍 **Geophysics & Earth Science**
-* 💻 **Programming & Software Development**
-* 🧠 **Algorithms & Problem Solving**
-* 📊 **Scientific & Technical Computing**
-* 🔬 **Technology applied to science**
-
-I enjoy learning by building projects — from terminal games and algorithms to desktop applications and automation tools.
+<br>
 
 ---
-
-## ⚡ Tech Stack
 
 <div align="center">
 
+## 🧑‍💻 A little about me
+
+</div>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation">
+
+I'm a **Geophysics Engineering student at the French-Azerbaijani University (UFAZ)** who enjoys combining science, programming, and technology.
+
+I'm interested in building things that sit somewhere between:
+
+🌍 **Earth Science**
+💻 **Programming**
+🧠 **Algorithms**
+📊 **Data**
+🔬 **Scientific Computing**
+
+I learn best by actually making things — experimenting, breaking stuff, figuring out why it broke, and improving it.
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Stack
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css" alt="Programming languages">
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css" alt="Programming languages">
 
-### Tools & Technologies
+### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode,pycharm" alt="Tools and technologies">
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode,pycharm" alt="Development tools">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+## 🚀 Things I've Built
+
+</div>
 
 <table>
 <tr>
@@ -65,18 +76,17 @@ I enjoy learning by building projects — from terminal games and algorithms to 
 
 ### 🎮 Connect Four
 
-A C-based Connect Four implementation featuring both **Player vs Player** and **Player vs AI** gameplay.
+A C implementation of Connect Four with **Player vs Player** and **Player vs AI** modes.
 
-**Highlights**
+The AI uses:
 
-* C
-* Minimax algorithm
+* Minimax
 * Alpha-beta pruning
-* AI decision making
-* Terminal-based interface
+* Decision making
+* Game-state evaluation
 
 <a href="https://github.com/MRL-creator/Connect-Four-Game-C-Language">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -85,18 +95,17 @@ A C-based Connect Four implementation featuring both **Player vs Player** and **
 
 ### 🐍 Snake Game
 
-A classic Snake game implemented in **C** with a terminal-based interface.
+A classic Snake game built in **C** and played directly through the terminal.
 
-**Highlights**
+Features include:
 
-* C
-* Terminal interface
 * Game logic
-* Input handling
-* Score system
+* Keyboard input
+* Score tracking
+* Terminal rendering
 
 <a href="https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -107,18 +116,14 @@ A classic Snake game implemented in **C** with a terminal-based interface.
 
 ### 📋 Attendance Tracker
 
-A desktop attendance management application built with **Python, PyQt and SQLite**.
+A desktop attendance application built using:
 
-**Highlights**
+**Python · PyQt · SQLite**
 
-* Python
-* PyQt
-* SQLite
-* Desktop GUI
-* Data management
+A practical project combining GUI development with local data management.
 
 <a href="https://github.com/MRL-creator/attendance-tracker">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -127,16 +132,12 @@ A desktop attendance management application built with **Python, PyQt and SQLite
 
 ### 📧 Gmail Cleaner
 
-A JavaScript project focused on automating and simplifying Gmail cleanup workflows.
+A JavaScript project focused on automating Gmail cleanup workflows.
 
-**Highlights**
-
-* JavaScript
-* Automation
-* Browser-based workflows
+**JavaScript · Automation · Browser workflows**
 
 <a href="https://github.com/MRL-creator/gmail-cleaner">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -145,101 +146,181 @@ A JavaScript project focused on automating and simplifying Gmail cleanup workflo
 
 ---
 
-## 🌍 Geophysics × Programming
+<div align="center">
 
-I'm interested in how programming can be used to work with **scientific and geophysical problems**.
+## 🌍 Where Geophysics Meets Code
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Geophysics+%2B+Programming;Scientific+Computing;Data+%2B+Algorithms;Earth+Science+%2B+Technology" alt="Typing animation">
+
+</div>
+
+I'm interested in using programming as a tool for solving **scientific and geophysical problems**.
 
 ```text
-                    GEOPHYSICS
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-     Data Processing  Modeling   Visualization
-          │             │             │
-          └─────────────┼─────────────┘
-                        │
-                        ▼
-                  PROGRAMMING
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-       Python       Algorithms    Scientific
-       & C          & Data        Computing
-                    Structures
+                         🌍 GEOPHYSICS
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+        Data Processing   Numerical Work   Visualization
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                              ▼
+                       💻 PROGRAMMING
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+           Python          Algorithms       Data
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                              ▼
+                    🔬 SCIENTIFIC COMPUTING
 ```
 
-I'm particularly interested in exploring:
+Areas I want to explore further:
 
 * Numerical methods
 * Scientific computing
 * Data processing
 * Data visualization
 * Computational modeling
-* Programming applications in Earth science
+* Programming for Earth science
 
 ---
 
+<div align="center">
+
 ## 🎓 Education & Leadership
 
-### 🇦🇿 French-Azerbaijani University (UFAZ)
+</div>
+
+### 🇦🇿 French-Azerbaijani University — UFAZ
 
 **Geophysics Engineering**
 
 I'm also the **Vice President of the UFAZ Programming Club**.
 
-As part of the club, I've organized programming activities and **organized and taught a Python course for students**.
-
----
-
-## 🏆 International Computer Science Competition
-
-### ICSC 2026 — Qualification Round
-
-**Participant · Azerbaijan**
-
-I successfully participated in the **Qualification Round of the 2026 International Computer Science Competition**.
-
----
-
-## 📚 Currently Learning
+Through the club, I've helped organize programming activities and **organized and taught a Python course for students**.
 
 <div align="center">
 
-| Area                    | Focus                                 |
-| ----------------------- | ------------------------------------- |
-| 🐍 Python               | Programming & scientific applications |
-| 🧠 Algorithms           | Problem solving & optimization        |
-| 🗂️ Data Structures     | Efficient programming                 |
-| 🔬 Scientific Computing | Programming for science               |
-| 🌍 Geophysics           | Computational applications            |
-| 💻 Software Development | Building practical projects           |
+💡 **Learning isn't only about writing code — it's also about helping others learn it.**
 
 </div>
 
 ---
 
----
-
-## 🧩 How I Learn
-
 <div align="center">
 
-### **Learn → Build → Break → Understand → Improve**
+## 🏆 Competition
+
+<img src="https://img.shields.io/badge/ICSC-2026%20Qualification%20Round-111827?style=for-the-badge&logo=codeforces&logoColor=white" alt="ICSC 2026">
+
+### International Computer Science Competition — 2026
+
+**Qualification Round Participant · Azerbaijan**
+
+Successfully participated in the **Qualification Round of the 2026 International Computer Science Competition**.
 
 </div>
 
-I prefer learning through **real projects and experimentation** — building something, figuring out why it works, fixing what doesn't, and improving it over time.
+---
+
+<div align="center">
+
+## 🧠 Currently Learning
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Python;Algorithms+%26+Data+Structures;Scientific+Computing;Software+Development;Computational+Geophysics" alt="Currently learning">
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🌍 Geophysics × 💻 Programming
+## 🔭 What I'm Exploring
 
-### Building at the intersection of Earth science and technology.
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br>
+🌍 <br> <b>Geophysics</b> <br> <sub>Earth & data</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%">
+</td>
+
+<td align="center" width="25%">
+
+💻 <br> <b>Programming</b> <br> <sub>Building things</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🧠 <br> <b>Algorithms</b> <br> <sub>Problem solving</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🔬 <br> <b>Scientific Computing</b> <br> <sub>Science + code</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub
+
+<a href="https://github.com/MRL-creator">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRL-creator&theme=github_dark" width="90%" alt="GitHub profile summary">
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRL-creator&theme=github_dark" height="170" alt="Repositories per language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRL-creator&theme=github_dark" height="170" alt="Most commit language">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 My Philosophy
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break;Understand+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Learning philosophy">
+
+<br><br>
+
+I don't want to just learn technologies.
+
+**I want to understand them well enough to build something useful.**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something
+
+<a href="https://github.com/MRL-creator">
+<img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
+
+🌍 **Geophysics**   ×   💻 **Programming**   ×   🔬 **Technology**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
