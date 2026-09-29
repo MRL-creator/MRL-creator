@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">From Earth signal to software</title>
+  <desc id="desc">A schematic scientific display with a gridded seismic trace, topographic contour lines, and a path from signal to data, algorithms, and code.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#29404b" stroke-width="1" opacity=".48"/>
+      <circle cx="0" cy="0" r="1.4" fill="#5b8790" opacity=".55"/>
+    </pattern>
+    <pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r=".8" fill="#b8d2d4" opacity=".18"/>
+      <circle cx="7" cy="6" r=".6" fill="#b8d2d4" opacity=".12"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#72bac3" stop-opacity=".08"/>
+      <stop offset=".5" stop-color="#72bac3" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#d0a77f" stop-opacity=".48"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="8" fill="#0d141a"/>
+  <rect width="1200" height="320" rx="8" fill="url(#grid)"/>
+
+  <g fill="none" stroke="#6c9296" stroke-width="1" opacity=".19">
+    <path d="M-20 255C130 180 210 288 352 223S585 161 715 224s236 77 335 10 155-43 190-4"/>
+    <path d="M-20 272C130 197 210 305 352 240S585 178 715 241s236 77 335 10 155-43 190-4"/>
+    <path d="M-20 289C130 214 210 322 352 257S585 195 715 258s236 77 335 10 155-43 190-4"/>
+    <path d="M-20 306C130 231 210 339 352 274S585 212 715 275s236 77 335 10 155-43 190-4"/>
+  </g>
+
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#a9c0c5">
+    <text x="42" y="42" font-size="15" letter-spacing="2.2" fill="#7fb7bd">MRL / SIGNAL PATH</text>
+    <text x="1157" y="42" font-size="13" text-anchor="end" letter-spacing="1.5" fill="#778d95">SCHEMATIC · NOT TO SCALE</text>
+  </g>
+
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="1.4">
+    <text x="48" y="87" fill="#d1dcde">01  EARTH</text>
+    <text x="330" y="87" fill="#d1dcde">02  SIGNAL</text>
+    <text x="622" y="87" fill="#d1dcde">03  ALGORITHM</text>
+    <text x="940" y="87" fill="#d1dcde">04  SOFTWARE</text>
+  </g>
+
+  <g fill="none" stroke="#91c8cd" stroke-width="1" opacity=".35">
+    <path d="M48 101H1152"/>
+    <path d="M48 96v10M322 96v10M614 96v10M932 96v10M1152 96v10"/>
+  </g>
+  <g fill="#a5d5d7">
+    <circle cx="48" cy="101" r="3"/><circle cx="322" cy="101" r="3"/>
+    <circle cx="614" cy="101" r="3"/><circle cx="932" cy="101" r="3"/>
+  </g>
+
+  <g fill="none" stroke="#72949b" stroke-width="1" opacity=".3">
+    <path d="M48 161H1152M48 197H1152M48 233H1152"/>
+    <path d="M48 126v116M322 126v116M614 126v116M932 126v116M1152 126v116"/>
+  </g>
+  <path d="M48 187 L94 186 L112 181 L126 191 L139 186 L157 187 L177 182 L191 193 L205 186 L227 186 L241 180 L254 195 L268 186 L289 187 L306 185 L322 187 L350 186 L366 180 L381 193 L395 187 L412 186 L430 185 L445 177 L458 198 L472 186 L490 187 L509 184 L522 171 L535 207 L548 185 L563 188 L578 181 L591 163 L604 219 L617 179 L630 188 L646 173 L661 147 L675 226 L690 177 L704 188 L721 170 L737 156 L751 212 L766 181 L781 187 L800 178 L816 166 L829 201 L844 184 L859 188 L877 180 L891 174 L905 197 L920 185 L938 187 L958 180 L971 191 L985 185 L1005 187 L1024 183 L1040 193 L1054 185 L1074 187 L1094 182 L1108 190 L1122 186 L1152 187" fill="none" stroke="url(#fade)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 187 L112 181 L139 186 L177 182 L205 186 L241 180 L268 186 L322 187 L366 180 L395 187 L445 177 L472 186 L522 171 L548 185 L591 163 L617 179 L661 147 L690 177 L737 156 L766 181 L816 166 L844 184 L891 174 L920 185 L971 191 L1005 187 L1040 193 L1074 187 L1108 190 L1152 187" fill="none" stroke="#a5d5d7" stroke-width=".9" opacity=".68"/>
+
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#81979d" letter-spacing="1.1">
+    <text x="48" y="267">OBSERVE</text>
+    <text x="322" y="267" text-anchor="middle">TRACE</text>
+    <text x="614" y="267" text-anchor="middle">REASON</text>
+    <text x="932" y="267" text-anchor="middle">BUILD</text>
+    <text x="1152" y="267" text-anchor="end">UNDERSTAND</text>
+  </g>
+  <rect width="1200" height="320" rx="8" fill="url(#grain)"/>
+</svg>
