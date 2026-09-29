@@ -218,15 +218,6 @@ I successfully participated in the **Qualification Round of the 2026 Internation
 
 ---
 
-## 🏆 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRL-creator&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">
-</p>
-
-
-
-
 ---
 
 ## 🧩 How I Learn
