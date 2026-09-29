@@ -48,19 +48,32 @@ I learn by building — experimenting with ideas, solving problems, breaking thi
 
 ---
 
+
 <div align="center">
 
-## ⚡ Languages
+## ⚡ Languages I Use
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75" alt="Animated programming logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75" alt="Animated programming logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75" alt="Animated programming logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75" alt="Animated programming logo">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="75" alt="Animated programming logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75" alt="Python">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75" alt="C">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75" alt="JavaScript">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75" alt="HTML">
 
 <br><br>
+
+**Python**   ·   **C**   ·   **JavaScript**   ·   **HTML**
+
+<br><br>
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode,pycharm" height="45" alt="Development tools">
+
+</div>
 
 ### 🛠️ Tools & Technologies
 
