@@ -24,9 +24,9 @@ I study **Geophysics Engineering at the French-Azerbaijani University (UFAZ)**. 
 
 ## Geophysics × programming
 
-I’m curious about how computational thinking can help explore scientific questions. This dithered wave field and moving seismic-style trace are visual shorthand for the path from geophysical signals to computation.
+I’m curious about how computational thinking can help explore scientific questions. This schematic follows the bridge I’m interested in: from Earth signals, through algorithms, toward useful software.
 
-![A looping dithered wave field with a moving seismic-style trace](./assetss/dither-waveform.gif)
+![A schematic signal path from Earth through a gridded seismic trace to algorithms and software](./assetss/signal-path.svg)
 
 ## Selected builds
 
@@ -65,7 +65,13 @@ A terminal game with keyboard controls, collisions, and speed that increases as 
 
 ## Tools in use
 
-<p><img src="./assetss/stack-logos.svg" alt="C, Python, JavaScript, and HTML marks" width="640"></p>
+<p align="center">
+  <a href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C logo" width="40" height="40"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"></a>
+</p>
+<p align="center"><sub>Language logos from <a href="https://github.com/devicons/devicon">Devicon</a></sub></p>
 
 **Languages** &nbsp; `C` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `HTML`<br>
 **Project tooling and formats** &nbsp; Google Apps Script · CSV · PyInstaller
