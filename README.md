@@ -24,9 +24,9 @@ I study **Geophysics Engineering at the French-Azerbaijani University (UFAZ)**. 
 
 ## Geophysics × programming
 
-I’m curious about how computational thinking can help explore scientific questions. This schematic follows the bridge I’m interested in: from Earth signals, through algorithms, toward useful software.
+I’m curious about how computational thinking can help explore scientific questions. This dithered wave field and moving seismic-style trace are visual shorthand for the path from geophysical signals to computation.
 
-![A schematic signal path from Earth through a gridded seismic trace to algorithms and software](./assetss/signal-path.svg)
+![A looping dithered wave field with a moving seismic-style trace](./assetss/dither-waveform.gif)
 
 ## Selected builds
 
@@ -64,6 +64,8 @@ A terminal game with keyboard controls, collisions, and speed that increases as 
 </table>
 
 ## Tools in use
+
+<p><img src="./assetss/stack-logos.svg" alt="C, Python, JavaScript, and HTML marks" width="640"></p>
 
 **Languages** &nbsp; `C` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `HTML`<br>
 **Project tooling and formats** &nbsp; Google Apps Script · CSV · PyInstaller
