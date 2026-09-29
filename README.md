@@ -1,73 +1,92 @@
 <div align="center">
 
-<img src="./assetss/21123.gif" width="100%" alt="MRL — Geophysics Engineering and Programming">
+# Ramal Maharramli
+
+### Geophysics Engineering · Programming · Scientific Computing
+
+<a href="https://github.com/MRL-creator?tab=repositories">PROJECT STREAM</a> &nbsp;·&nbsp;
+<a href="https://github.com/MRL-creator">GITHUB ACTIVITY</a> &nbsp;·&nbsp;
+<a href="https://az.linkedin.com/in/ramal-maharramli-040260330">LINKEDIN</a>
 
 <br>
 
-# MRL
+<img src="./assetss/21123.gif" alt="Animated geophysics and programming banner" width="680">
 
-### Geophysics Engineering Student · Programmer · Builder
+<br>
 
-**Exploring the space between Earth science, computation, and code.**
-
-[GitHub](https://github.com/MRL-creator) · [LinkedIn](https://az.linkedin.com/in/ramal-maharramli-040260330)
+<img src="https://readme-typing-svg.demolab.com/?size=17&amp;duration=2400&amp;pause=850&amp;color=397B82&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=38&amp;lines=EARTH+SCIENCE+TO+COMPUTATION;ALGORITHMS+TO+BUILDS;DATA%2C+MODELS%2C+CODE" alt="Earth science to computation · Algorithms to builds · Data, models, code">
 
 </div>
 
 ---
 
-## About
+## Field readout
 
-I study **Geophysics Engineering at the French-Azerbaijani University (UFAZ)**. I enjoy programming, algorithms, and building projects, and I’m interested in how computation can help explore scientific questions and data.
+I study **Geophysics Engineering at UFAZ**, where I’m interested in how computation can help make sense of the Earth. I like turning ideas into practical software, from small terminal games to tools that organize everyday work.
 
-## Languages and tools
+```text
+SIGNAL PATH   Earth science → data → models → code
+LANGUAGES     C · Python · JavaScript · HTML
+TOOLKIT       Google Apps Script · CSV · PyInstaller
+```
 
-Based on my public projects:
-
-- **Languages:** C, Python, JavaScript
-- **Tools and formats:** Google Apps Script, CSV
-
-## Featured projects
-
-| Project | What it does |
-| --- | --- |
-| [Connect Four](https://github.com/MRL-creator/Connect-Four-Game-C-Language) | A terminal game in C with player-versus-player and player-versus-AI modes. The AI uses minimax with alpha-beta pruning. |
-| [Snake Game](https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-) | A terminal-based C game with keyboard controls, growing difficulty, and collision handling. |
-| [Attendance Tracker](https://github.com/MRL-creator/attendance-tracker) | A Python desktop app for managing attendance offline and saving records as CSV files. |
-| [Gmail Cleaner](https://github.com/MRL-creator/gmail-cleaner) | A Google Apps Script that finds older verification emails, with dry-run logging and safeguards for starred and important messages. |
-
-## Geophysics × programming
+## Signal route
 
 <div align="center">
 
-**Earth science** → **Scientific data** → **Computation** → **Algorithms** → **Things to build**
-
-I’m interested in using programming to work with scientific questions, data, and physical models.
+<strong>EARTH</strong> &nbsp;→&nbsp; SIGNALS &nbsp;→&nbsp; DATA &nbsp;→&nbsp; MODELS &nbsp;→&nbsp; CODE &nbsp;→&nbsp; INSIGHT
 
 </div>
 
-## Education and leadership
+## Build log
 
-**French-Azerbaijani University (UFAZ)**<br>
-Geophysics Engineering
+<details open>
+<summary><strong>Connect Four</strong> · C · minimax with alpha-beta pruning</summary>
 
-**Vice President, UFAZ Programming Club**<br>
-I help organize and teach Python courses for students.
+<p>A terminal game with player-versus-player and player-versus-AI modes. The AI searches a limited number of moves ahead, prunes branches with alpha-beta, and scores board positions with a heuristic.</p>
 
-## Competition
+<a href="https://github.com/MRL-creator/Connect-Four-Game-C-Language">Explore the repository →</a>
 
-**International Computer Science Competition (ICSC) 2026** · Qualification Round participant
+</details>
 
-## Currently exploring
+<details>
+<summary><strong>Gmail Cleaner</strong> · JavaScript · Google Apps Script</summary>
 
-Python, algorithms, data structures, and scientific computing.
+<p>Finds older verification-code and login-link emails, offers a dry run, and protects starred or important messages before moving matching threads to Trash.</p>
 
----
+<a href="https://github.com/MRL-creator/gmail-cleaner">Explore the repository →</a>
+
+</details>
+
+<details>
+<summary><strong>Attendance Tracker</strong> · Python · CSV</summary>
+
+<p>An offline Windows desktop app for recording and managing attendance data in CSV files.</p>
+
+<a href="https://github.com/MRL-creator/attendance-tracker">Explore the repository →</a>
+
+</details>
+
+<details>
+<summary><strong>Snake</strong> · C · terminal game</summary>
+
+<p>A terminal Snake game with keyboard controls, collision handling, and increasing speed as food is collected.</p>
+
+<a href="https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-">Explore the repository →</a>
+
+</details>
+
+## Lab notes
+
+- **Geophysics:** Geophysics Engineering student at UFAZ.
+- **Community:** Vice President of the UFAZ Programming Club; organized and taught Python courses.
+- **Competition:** Participant in the ICSC 2026 Qualification Round.
+- **Currently exploring:** Python, algorithms, data structures, and scientific computing.
 
 <div align="center">
 
-> Learn → Build → Understand → Improve
+<br>
 
-**Science brings the questions. Programming helps me explore them.**
+`LEARN` &nbsp;·&nbsp; `BUILD` &nbsp;·&nbsp; `UNDERSTAND` &nbsp;·&nbsp; `IMPROVE`
 
 </div>
