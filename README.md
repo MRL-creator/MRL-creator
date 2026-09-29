@@ -148,34 +148,88 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 
 <div align="center">
 
-## 🌍 Where Geophysics Meets Code
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Geophysics+%2B+Programming;Scientific+Computing;Data+%2B+Algorithms;Earth+Science+%2B+Technology" alt="Typing animation">
+## 🌍 Geophysics × 💻 Programming
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="42%">
+
+### 🌍 GEOPHYSICS
+
+<br>
+
+📊 **Data Processing**
+
+🔢 **Numerical Methods**
+
+📈 **Data Visualization**
+
+🌐 **Earth Science**
+
+</td>
+
+<td align="center" width="16%">
+
+### ×
+
+<br><br>
+
+**⚡**
+
+<br><br>
+
+**🔬**
+
+</td>
+
+<td align="center" width="42%">
+
+### 💻 PROGRAMMING
+
+<br>
+
+🐍 **Python**
+
+🧠 **Algorithms**
+
+🗃️ **Data Structures**
+
+⚙️ **Software Development**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🔬 SCIENTIFIC COMPUTING
+
+<br>
+
+`Data`   ×   `Algorithms`   ×   `Models`   ×   `Visualization`
+
+<br><br>
+
+**Using computation to explore scientific problems.**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-I'm interested in using programming as a tool for solving **scientific and geophysical problems**.
-
-```text
-                         🌍 GEOPHYSICS
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-        Data Processing   Numerical Work   Visualization
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                       💻 PROGRAMMING
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-           Python          Algorithms       Data
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                    🔬 SCIENTIFIC COMPUTING
 ```
 
 Areas I want to explore further:
