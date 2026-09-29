@@ -4,17 +4,17 @@
 
 <br><br>
 
-# Hey there! 👋 I'm MRL
+# 👋 Hey, I'm MRL
 
-### 🌍 Geophysics Engineering Student  ·  💻 Programmer  ·  🛠️ Builder
+### 🌍 Geophysics Engineering Student · 💻 Programmer · 🛠️ Builder
 
 <br>
 
 <a href="https://github.com/MRL-creator">
-  <img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Geophysics-Engineering-164E63?style=for-the-badge" alt="Geophysics Engineering">
+<img src="https://img.shields.io/badge/Geophysics-Engineering-164E63?style=for-the-badge" alt="Geophysics">
 &nbsp;
 <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
@@ -26,23 +26,23 @@
 
 <div align="center">
 
-## 🧑‍💻 A little about me
+## 🧑‍💻 About Me
 
 </div>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation">
 
-I'm a **Geophysics Engineering student at the French-Azerbaijani University (UFAZ)** who enjoys combining science, programming, and technology.
+I'm a **Geophysics Engineering student at the French-Azerbaijani University (UFAZ)** with a strong interest in programming, technology, and building things.
 
-I'm interested in building things that sit somewhere between:
+I'm especially interested in the intersection between:
 
-🌍 **Earth Science**
-💻 **Programming**
-🧠 **Algorithms**
-📊 **Data**
+🌍 **Geophysics & Earth Science**
+💻 **Programming & Software Development**
+🧠 **Algorithms & Problem Solving**
+📊 **Data & Visualization**
 🔬 **Scientific Computing**
 
-I learn best by actually making things — experimenting, breaking stuff, figuring out why it broke, and improving it.
+I learn by building — experimenting with ideas, solving problems, breaking things, understanding why they broke, and improving them.
 
 <br clear="right"/>
 
@@ -50,15 +50,21 @@ I learn best by actually making things — experimenting, breaking stuff, figuri
 
 <div align="center">
 
-## ⚡ Tech Stack
+## ⚡ Languages
 
-### Languages
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css" alt="Programming languages">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75" alt="Animated programming logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75" alt="Animated programming logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75" alt="Animated programming logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75" alt="Animated programming logo">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="75" alt="Animated programming logo">
 
-### Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode,pycharm" alt="Development tools">
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode,pycharm" height="45" alt="Development tools">
 
 </div>
 
@@ -66,27 +72,28 @@ I learn best by actually making things — experimenting, breaking stuff, figuri
 
 <div align="center">
 
-## 🚀 Things I've Built
+## 🚀 Featured Projects
 
 </div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎮 Connect Four
 
 A C implementation of Connect Four with **Player vs Player** and **Player vs AI** modes.
 
-The AI uses:
+**Highlights**
 
-* Minimax
-* Alpha-beta pruning
-* Decision making
-* Game-state evaluation
+🧠 Minimax
+⚡ Alpha-beta pruning
+🎯 AI decision making
+💻 Terminal interface
 
 <a href="https://github.com/MRL-creator/Connect-Four-Game-C-Language">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Connect Four">
 </a>
 
 </td>
@@ -95,35 +102,37 @@ The AI uses:
 
 ### 🐍 Snake Game
 
-A classic Snake game built in **C** and played directly through the terminal.
+A classic Snake game built in **C** and played through the terminal.
 
-Features include:
+**Highlights**
 
-* Game logic
-* Keyboard input
-* Score tracking
-* Terminal rendering
+🎮 Game logic
+⌨️ Input handling
+🏆 Score system
+💻 Terminal rendering
 
 <a href="https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Snake Game">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📋 Attendance Tracker
 
-A desktop attendance application built using:
+A desktop attendance management application built with:
 
 **Python · PyQt · SQLite**
 
 A practical project combining GUI development with local data management.
 
 <a href="https://github.com/MRL-creator/attendance-tracker">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Attendance Tracker">
 </a>
 
 </td>
@@ -137,16 +146,15 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 **JavaScript · Automation · Browser workflows**
 
 <a href="https://github.com/MRL-creator/gmail-cleaner">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" alt="View Gmail Cleaner">
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
-
-<div align="center">
 
 <div align="center">
 
@@ -156,6 +164,7 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 
 <table>
 <tr>
+
 <td align="center" width="42%">
 
 ### 🌍 GEOPHYSICS
@@ -164,9 +173,15 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 
 📊 **Data Processing**
 
+<br>
+
 🔢 **Numerical Methods**
 
+<br>
+
 📈 **Data Visualization**
+
+<br>
 
 🌐 **Earth Science**
 
@@ -194,19 +209,22 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 
 🐍 **Python**
 
+<br>
+
 🧠 **Algorithms**
 
+<br>
+
 🗃️ **Data Structures**
+
+<br>
 
 ⚙️ **Software Development**
 
 </td>
+
 </tr>
 </table>
-
-<br>
-
-⬇️
 
 <br>
 
@@ -216,9 +234,9 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 
 ### 🔬 SCIENTIFIC COMPUTING
 
-<br>
+<br><br>
 
-`Data`   ×   `Algorithms`   ×   `Models`   ×   `Visualization`
+`DATA`   ×   `ALGORITHMS`   ×   `MODELS`   ×   `VISUALIZATION`
 
 <br><br>
 
@@ -229,17 +247,6 @@ A JavaScript project focused on automating Gmail cleanup workflows.
 </table>
 
 </div>
-
-```
-
-Areas I want to explore further:
-
-* Numerical methods
-* Scientific computing
-* Data processing
-* Data visualization
-* Computational modeling
-* Programming for Earth science
 
 ---
 
@@ -253,13 +260,17 @@ Areas I want to explore further:
 
 **Geophysics Engineering**
 
-I'm also the **Vice President of the UFAZ Programming Club**.
+<br>
 
-Through the club, I've helped organize programming activities and **organized and taught a Python course for students**.
+### 👥 UFAZ Programming Club
+
+**Vice President**
+
+I've helped organize programming activities and **organized and taught a Python course for students**.
 
 <div align="center">
 
-💡 **Learning isn't only about writing code — it's also about helping others learn it.**
+💡 *Learning code is great. Helping someone else understand it is even better.*
 
 </div>
 
@@ -267,11 +278,13 @@ Through the club, I've helped organize programming activities and **organized an
 
 <div align="center">
 
-## 🏆 Competition
+## 🏆 International Computer Science Competition
 
-<img src="https://img.shields.io/badge/ICSC-2026%20Qualification%20Round-111827?style=for-the-badge&logo=codeforces&logoColor=white" alt="ICSC 2026">
+<br>
 
-### International Computer Science Competition — 2026
+<img src="https://img.shields.io/badge/ICSC-2026%20Qualification%20Round-111827?style=for-the-badge&logo=codeforces&logoColor=white" alt="ICSC 2026 Qualification Round">
+
+<br><br>
 
 **Qualification Round Participant · Azerbaijan**
 
@@ -285,41 +298,40 @@ Successfully participated in the **Qualification Round of the 2026 International
 
 ## 🧠 Currently Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Python;Algorithms+%26+Data+Structures;Scientific+Computing;Software+Development;Computational+Geophysics" alt="Currently learning">
+<br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Python;Algorithms+%26+Data+Structures;Scientific+Computing;Software+Development;Computational+Geophysics" alt="Currently learning">
 
----
-
-<div align="center">
-
-## 🔭 What I'm Exploring
+<br><br>
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-🌍 <br> <b>Geophysics</b> <br> <sub>Earth & data</sub>
-
+<td align="center" width="20%">
+🐍<br>
+<b>Python</b>
 </td>
 
-<td align="center" width="25%">
-
-💻 <br> <b>Programming</b> <br> <sub>Building things</sub>
-
+<td align="center" width="20%">
+🧠<br>
+<b>Algorithms</b>
 </td>
 
-<td align="center" width="25%">
-
-🧠 <br> <b>Algorithms</b> <br> <sub>Problem solving</sub>
-
+<td align="center" width="20%">
+🗂️<br>
+<b>Data Structures</b>
 </td>
 
-<td align="center" width="25%">
-
-🔬 <br> <b>Scientific Computing</b> <br> <sub>Science + code</sub>
-
+<td align="center" width="20%">
+🔬<br>
+<b>Scientific Computing</b>
 </td>
+
+<td align="center" width="20%">
+🌍<br>
+<b>Computational Geophysics</b>
+</td>
+
 </tr>
 </table>
 
@@ -329,17 +341,91 @@ Successfully participated in the **Qualification Round of the 2026 International
 
 <div align="center">
 
-## 📈 GitHub
+## 🔭 What I'm Exploring
 
-<a href="https://github.com/MRL-creator">
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+🌍
+
+<br>
+
+**GEOPHYSICS**
+
+<br>
+
+<sub>Earth & Data</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+💻
+
+<br>
+
+**PROGRAMMING**
+
+<br>
+
+<sub>Building Things</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+
+<br>
+
+**ALGORITHMS**
+
+<br>
+
+<sub>Problem Solving</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🔬
+
+<br>
+
+**SCIENCE**
+
+<br>
+
+<sub>Computation</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Activity
+
+<br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRL-creator&theme=github_dark" width="90%" alt="GitHub profile summary">
-</a>
 
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRL-creator&theme=github_dark" height="170" alt="Repositories per language">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRL-creator&theme=github_dark" height="170" alt="Most commit language">
+  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRL-creator&theme=github_dark" height="170" alt="Most committed language">
 
 </div>
 
@@ -347,15 +433,17 @@ Successfully participated in the **Qualification Round of the 2026 International
 
 <div align="center">
 
-## 🧩 My Philosophy
+## 🧩 My Approach
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break;Understand+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Learning philosophy">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break;Understand+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Learning approach">
 
 <br><br>
 
 I don't want to just learn technologies.
 
-**I want to understand them well enough to build something useful.**
+### I want to understand them well enough to build something useful.
 
 </div>
 
@@ -363,7 +451,9 @@ I don't want to just learn technologies.
 
 <div align="center">
 
-### 🤝 Let's Build Something
+## 🤝 Let's Build Something
+
+<br>
 
 <a href="https://github.com/MRL-creator">
 <img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
