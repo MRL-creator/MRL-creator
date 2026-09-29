@@ -1,19 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm MRL
+<img src="./assets/header.gif" width="100%" alt="MRL — Geophysics Engineering × Programming">
+
+<br>
+
+# Hi, I'm MRL 👋
 
 ### Geophysics Engineering Student · Programmer · Builder
 
 <p>
   <a href="https://github.com/MRL-creator">
-    <img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-MRL--creator-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/ramal-maharramli-040260330/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://img.shields.io/badge/Geophysics-Engineering-0F4C5C?style=for-the-badge" alt="Geophysics Engineering">
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
 </p>
-
-<i>Building things, solving problems, and learning through code.</i>
 
 </div>
 
@@ -21,33 +23,41 @@
 
 ## 🧭 About Me
 
-I'm a **Geophysics Engineering student at the French-Azerbaijani University (UFAZ)** interested in programming, computational methods, and technology.
+I'm a **Geophysics Engineering student at the French-Azerbaijani University (UFAZ)** with a strong interest in programming, technology, and building things.
 
-I enjoy turning ideas into practical projects and learning by building.
+My interests sit at the intersection of:
 
-Alongside my studies, I'm the **Vice President of the UFAZ Programming Club**, where I help organize programming activities and have organized and taught Python courses for university students.
+* 🌍 **Geophysics & Earth Science**
+* 💻 **Programming & Software Development**
+* 🧠 **Algorithms & Problem Solving**
+* 📊 **Scientific & Technical Computing**
+* 🔬 **Technology applied to science**
 
-I'm particularly interested in:
-
-* 🐍 Python and programming
-* 🧠 Algorithms and problem solving
-* ⚙️ Software development
-* 🌍 Computational applications in geophysics
-* 📊 Data and scientific computing
+I enjoy learning by building projects — from terminal games and algorithms to desktop applications and automation tools.
 
 ---
 
-## 💻 Technologies
+## ⚡ What I'm Working With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css,git,github,sqlite" alt="Technologies">
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css" alt="Programming languages">
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,sqlite,pycharm,vscode" alt="Tools and technologies">
+</p>
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -55,14 +65,18 @@ I'm particularly interested in:
 
 ### 🎮 Connect Four
 
-**C · Algorithms**
+A C-based Connect Four implementation featuring both **Player vs Player** and **Player vs AI** gameplay.
 
-A Connect Four implementation featuring both Player vs Player and Player vs AI modes.
+**Highlights**
 
-The AI uses **minimax with alpha-beta pruning**.
+* C
+* Minimax algorithm
+* Alpha-beta pruning
+* AI decision making
+* Terminal-based interface
 
 <a href="https://github.com/MRL-creator/Connect-Four-Game-C-Language">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -71,14 +85,18 @@ View Repository →
 
 ### 🐍 Snake Game
 
-**C · Terminal**
+A classic Snake game implemented in **C** with a terminal-based interface.
 
-A terminal-based Snake game written in C.
+**Highlights**
 
-Features keyboard controls, collision detection, growing gameplay, scoring, and increasing difficulty.
+* C
+* Terminal interface
+* Game logic
+* Input handling
+* Score system
 
 <a href="https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -87,30 +105,38 @@ View Repository →
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Attendance Tracker
+### 📋 Attendance Tracker
 
-**Python · PyQt · SQLite**
+A desktop attendance management application built with **Python, PyQt and SQLite**.
 
-A desktop application for managing and tracking attendance.
+**Highlights**
 
-Built with Python, a graphical interface, and SQLite for data storage.
+* Python
+* PyQt
+* SQLite
+* Desktop GUI
+* Data management
 
 <a href="https://github.com/MRL-creator/attendance-tracker">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧹 Gmail Cleaner
+### 📧 Gmail Cleaner
 
-**JavaScript**
+A JavaScript project focused on automating and simplifying Gmail cleanup workflows.
 
-A JavaScript project focused on simplifying Gmail cleanup and management.
+**Highlights**
+
+* JavaScript
+* Automation
+* Browser-based workflows
 
 <a href="https://github.com/MRL-creator/gmail-cleaner">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -119,20 +145,43 @@ View Repository →
 
 ---
 
+## 🌍 Geophysics × Programming
+
+I'm particularly interested in how programming can be used to work with **scientific and geophysical problems**.
+
+Areas I'm interested in exploring include:
+
+```text
+Geophysics
+    │
+    ├── Data Processing
+    ├── Numerical Methods
+    ├── Scientific Computing
+    ├── Data Visualization
+    └── Computational Modeling
+             │
+             ▼
+        Programming
+             │
+    ├── Python
+    ├── Algorithms
+    ├── Data Structures
+    └── Software Development
+```
+
+My long-term goal is to combine **Earth science, computation, and technology** into useful projects.
+
+---
+
 ## 🎓 Education & Leadership
 
-### French-Azerbaijani University — UFAZ
+### 🇦🇿 French-Azerbaijani University (UFAZ)
 
 **Geophysics Engineering**
 
-Alongside my studies, I serve as:
+I'm also involved with the **UFAZ Programming Club**, where I serve as **Vice President**.
 
-**Vice President — UFAZ Programming Club**
-
-* Organizing programming activities and student initiatives
-* Organizing and teaching Python courses
-* Collaborating with students on programming activities
-* Helping students develop practical programming skills
+As part of the club, I've helped organize programming activities and **organized and taught a Python course for students**.
 
 ---
 
@@ -142,31 +191,49 @@ Alongside my studies, I serve as:
 
 **Qualification Round Participant**
 
-Participated in the Qualification Round of the 2026 International Computer Science Competition.
+I participated in the **2026 Qualification Round of the International Computer Science Competition (ICSC)**.
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
 
-<div align="center">
+```text
+Python
+Algorithms & Data Structures
+Scientific Computing
+Software Development
+Geophysical Applications of Programming
+```
 
-`Python` · `C` · `Algorithms` · `Data Structures` · `Software Development` · `Scientific Computing`
-
-</div>
-
-I'm interested in applying programming to **scientific and engineering problems**, particularly where computation, data, and modelling can be used to understand real-world systems.
+I'm especially interested in turning what I learn into **actual projects** rather than only studying the theory.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MRL-creator&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats">
+<a href="https://github.com/MRL-creator">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MRL-creator&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="MRL's GitHub stats">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRL-creator&layout=compact&hide_border=true" height="165" alt="Top Languages">
+<a href="https://github.com/MRL-creator">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRL-creator&layout=compact&hide_border=true&theme=transparent" alt="MRL's top languages">
+</a>
 
 </div>
+
+---
+
+## 🧩 My Approach
+
+<div align="center">
+
+**Learn → Build → Break → Understand → Improve**
+
+</div>
+
+I believe the best way to learn programming is to **build things, make mistakes, understand why they happened, and keep improving**.
 
 ---
 
@@ -174,12 +241,10 @@ I'm interested in applying programming to **scientific and engineering problems*
 
 ### 🌍 Geophysics × 💻 Programming
 
-**Learn · Build · Experiment**
+**Building at the intersection of Earth science and technology.**
 
 <br>
 
-<a href="https://github.com/MRL-creator">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%">
 
 </div>
