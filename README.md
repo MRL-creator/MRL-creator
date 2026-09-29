@@ -220,13 +220,20 @@ I successfully participated in the **Qualification Round of the 2026 Internation
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MRL-creator&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    alt="MRL GitHub statistics"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MRL-creator&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="MRL's GitHub stats">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRL-creator&layout=compact&hide_border=true&theme=transparent"
+    alt="MRL top programming languages"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRL-creator&layout=compact&hide_border=true&theme=transparent" height="180" alt="MRL's top languages">
-
-</div>
 
 
 ---
