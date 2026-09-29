@@ -218,21 +218,12 @@ I successfully participated in the **Qualification Round of the 2026 Internation
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MRL-creator&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-    alt="MRL GitHub statistics"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=MRL-creator&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRL-creator&layout=compact&hide_border=true&theme=transparent"
-    alt="MRL top programming languages"
-  />
-</p>
 
 
 
