@@ -1,95 +1,57 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="MRL — software and scientific computing. A schematic seismic waveform connects signals to software." width="1200">
+</picture>
 
-<p><sub>SCIENTIFIC COMPUTING / FIELD DESK 01</sub></p>
+# Ramal Maharramli
 
-<h1>Ramal Maharramli</h1>
+**Software development × geophysics.** I build scientific Python tools, interactive data workstations, and practical automation — with C projects exploring game logic and search algorithms.
 
-<p><strong>MRL</strong> &nbsp;·&nbsp; Geophysics Engineering × Programming × Building</p>
-
-<img src="./assetss/21123.gif" alt="MRL over a moving seismic waveform and topographic contour lines; Geophysics Engineering × Programming" width="800">
-
-<p><a href="https://github.com/MRL-creator?tab=repositories">PROJECTS</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/MRL-creator?tab=overview">GITHUB ACTIVITY</a>
-&nbsp;·&nbsp;
-<a href="https://az.linkedin.com/in/ramal-maharramli-040260330">LINKEDIN</a></p>
-
-</div>
+[Selected work](#selected-work) &nbsp; / &nbsp; [About](#about) &nbsp; / &nbsp; [Activity](#activity) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ramal-maharramli-040260330/)
 
 ---
 
-## Field note
+## Selected work
 
-I study **Geophysics Engineering at the French-Azerbaijani University (UFAZ)**. I’m interested in the path from scientific questions to data, algorithms, and useful software. My projects range from C terminal games to Python and JavaScript tools.
+| Project | What’s inside |
+| :--- | :--- |
+| **[Seismic Wave Simulator](https://github.com/MRL-creator/seismic-wave-simulator)**<br><sub>NUMERICAL MODELING · Python / NumPy / Plotly</sub> | An educational 2D elastic wave model with P- and S-dominant sources and layered materials. A vectorized finite-difference solver uses CFL-based time steps; the interface exposes wavefields and receiver traces. |
+| **[Earthquake Data Explorer](https://github.com/MRL-creator/earthquake-data-explorer)**<br><sub>DATA &amp; APIs · Python / Pandas / Streamlit</sub> | Explore real USGS catalog records through maps, filters, and descriptive statistics. Bounded-timeout API requests, CSV export, and a bundled catalog snapshot support both live and offline workflows. |
+| **[Seismic Signal Analyzer](https://github.com/MRL-creator/seismic-signal-analyzer)**<br><sub>SIGNAL PROCESSING · Python / SciPy / Plotly</sub> | Inspect waveform CSVs with Butterworth filtering, FFT spectra, and spectrograms. Sampling checks guard frequency-domain analysis; reusable modules separate processing from the interface. |
+| **[Connect Four](https://github.com/MRL-creator/Connect-Four-Game-C-Language)**<br><sub>SEARCH ALGORITHMS · C</sub> | Terminal PvP and PvAI with selectable search depth. Minimax with alpha-beta pruning scores candidate moves using a board evaluation function. |
+| **[Gmail Cleaner](https://github.com/MRL-creator/gmail-cleaner)**<br><sub>AUTOMATION · JavaScript / Google Apps Script</sub> | Trash older verification codes and login links in bounded batches. Dry-run mode previews changes, with checks to skip starred and important messages. |
 
-## Geophysics × programming
+<details>
+<summary>More projects</summary>
 
-I’m curious about how computational thinking can help explore scientific questions. This schematic follows the bridge I’m interested in: from Earth signals, through algorithms, toward useful software.
+- **[Snake](https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-)** — a C terminal game with keyboard input, collision handling, and increasing difficulty.
+- **[Attendance Tracker](https://github.com/MRL-creator/attendance-tracker)** — an offline Windows attendance tool with CSV storage; available as a packaged release.
+- **[Personal portfolio](https://github.com/MRL-creator/MRL-creator.github.io)** — an HTML, CSS, and JavaScript site presenting the projects in more detail.
 
-![A schematic signal path from Earth through a gridded seismic trace to algorithms and software](./assetss/signal-path.svg)
-
-## Selected builds
-
-<table>
-<tbody>
-<tr>
-<td valign="top" width="50%">
-<sub>01 / SEARCH · C</sub><br>
-<strong>Connect Four</strong><br>
-Terminal PvP and PvAI. The AI uses depth-limited minimax, alpha-beta pruning, and board evaluation.<br><br>
-<a href="https://github.com/MRL-creator/Connect-Four-Game-C-Language">VIEW SOURCE →</a>
-</td>
-<td valign="top" width="50%">
-<sub>02 / AUTOMATION · JAVASCRIPT</sub><br>
-<strong>Gmail Cleaner</strong><br>
-Google Apps Script for older verification codes and login links, with dry-run and starred/important safeguards.<br><br>
-<a href="https://github.com/MRL-creator/gmail-cleaner">VIEW SOURCE →</a>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<sub>03 / DESKTOP · PYTHON</sub><br>
-<strong>Attendance Tracker</strong><br>
-An offline Windows desktop app that records attendance in CSV files.<br><br>
-<a href="https://github.com/MRL-creator/attendance-tracker">VIEW SOURCE →</a>
-</td>
-<td valign="top" width="50%">
-<sub>04 / TERMINAL · C</sub><br>
-<strong>Snake</strong><br>
-A terminal game with keyboard controls, collisions, and speed that increases as food is collected.<br><br>
-<a href="https://github.com/MRL-creator/Snake-Game-in-C-Terminal-Based-">VIEW SOURCE →</a>
-</td>
-</tr>
-</tbody>
-</table>
+</details>
 
 ## Tools in use
 
-<p align="center">
-  <a href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C logo" width="40" height="40"></a>&nbsp;&nbsp;
-  <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40"></a>&nbsp;&nbsp;
-  <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40"></a>&nbsp;&nbsp;
-  <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"></a>
-</p>
-<p align="center"><sub>Language logos from <a href="https://github.com/devicons/devicon">Devicon</a></sub></p>
+| Area | Technologies used in my repositories |
+| :--- | :--- |
+| Languages | **Python · C · JavaScript** |
+| Scientific computing | NumPy · SciPy · Pandas |
+| Interfaces &amp; automation | Streamlit · Plotly · HTML / CSS · Google Apps Script |
+| Development | Git · GitHub · pytest / unittest |
 
-**Languages** &nbsp; `C` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `HTML`<br>
-**Project tooling and formats** &nbsp; Google Apps Script · CSV · PyInstaller
+## About
 
-## Field desk
+I study **Geophysics Engineering at the French-Azerbaijani University (UFAZ)** and serve as **Vice President of the UFAZ Programming Club**, where I have organized and taught Python courses.
 
-- **Education** — Geophysics Engineering, French-Azerbaijani University (UFAZ).
-- **Community** — Vice President of the UFAZ Programming Club; organized and taught Python courses.
-- **ICSC 2026** — Participant in the International Computer Science Competition Qualification Round.
+My recent work connects geophysics with software: analyzing waveforms, exploring earthquake catalogs, and modeling simplified wave propagation. The scientific projects keep their calculations in reusable Python modules behind interactive interfaces.
 
-## Current direction
+## Activity
 
-Python · algorithms · data structures · scientific computing
+[Recent repository updates](https://github.com/MRL-creator?tab=repositories&sort=updated) &nbsp; / &nbsp; [Contribution history](https://github.com/MRL-creator?tab=overview#contribution-activity)
 
-## Live activity
+## Connect
 
-GitHub’s native contribution calendar and repository activity are available on my [profile overview ↗](https://github.com/MRL-creator?tab=overview).
+[LinkedIn](https://www.linkedin.com/in/ramal-maharramli-040260330/) &nbsp; / &nbsp; [GitHub](https://github.com/MRL-creator)
 
-## Contact
-
-[GitHub](https://github.com/MRL-creator) &nbsp;·&nbsp; [LinkedIn](https://az.linkedin.com/in/ramal-maharramli-040260330)
+<sub>MRL-creator · Geophysics × programming</sub>
