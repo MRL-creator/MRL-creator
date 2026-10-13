@@ -16,6 +16,7 @@
 
 | Project | What’s inside |
 | :--- | :--- |
+| **[Attendance Workspace](https://github.com/MRL-creator/attendance-workspace)**<br><sub>FULL-STACK APPLICATION · JavaScript / Cloudflare Workers / SQLite</sub> | A self-hosted workspace for courses, groups, attendance, and reports. Server-side roles, CSV/XLSX/PDF imports, an Excel viewer, audit history, and automated API tests support practical administrative workflows. |
 | **[Seismic Wave Simulator](https://github.com/MRL-creator/seismic-wave-simulator)**<br><sub>NUMERICAL MODELING · Python / NumPy / Plotly</sub> | An educational 2D elastic wave model with P- and S-dominant sources and layered materials. A vectorized finite-difference solver uses CFL-based time steps; the interface exposes wavefields and receiver traces. |
 | **[Earthquake Data Explorer](https://github.com/MRL-creator/earthquake-data-explorer)**<br><sub>DATA &amp; APIs · Python / Pandas / Streamlit</sub> | Explore real USGS catalog records through maps, filters, and descriptive statistics. Bounded-timeout API requests, CSV export, and a bundled catalog snapshot support both live and offline workflows. |
 | **[Seismic Signal Analyzer](https://github.com/MRL-creator/seismic-signal-analyzer)**<br><sub>SIGNAL PROCESSING · Python / SciPy / Plotly</sub> | Inspect waveform CSVs with Butterworth filtering, FFT spectra, and spectrograms. Sampling checks guard frequency-domain analysis; reusable modules separate processing from the interface. |
