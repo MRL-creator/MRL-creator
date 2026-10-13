@@ -14,6 +14,8 @@
 
 ## Selected work
 
+**[Try the Earthquake Data Explorer](https://mrl-earthquake-explorer.streamlit.app/)** — explore the bundled USGS catalog in your browser.
+
 | Project | What’s inside |
 | :--- | :--- |
 | **[Attendance Workspace](https://github.com/MRL-creator/attendance-workspace)**<br><sub>FULL-STACK APPLICATION · JavaScript / Cloudflare Workers / SQLite</sub> | A self-hosted workspace for courses, groups, attendance, and reports. Server-side roles, CSV/XLSX/PDF imports, an Excel viewer, audit history, and automated API tests support practical administrative workflows. |
@@ -22,6 +24,13 @@
 | **[Seismic Signal Analyzer](https://github.com/MRL-creator/seismic-signal-analyzer)**<br><sub>SIGNAL PROCESSING · Python / SciPy / Plotly</sub> | Inspect waveform CSVs with Butterworth filtering, FFT spectra, and spectrograms. Sampling checks guard frequency-domain analysis; reusable modules separate processing from the interface. |
 | **[Connect Four](https://github.com/MRL-creator/Connect-Four-Game-C-Language)**<br><sub>SEARCH ALGORITHMS · C</sub> | Terminal PvP and PvAI with selectable search depth. Minimax with alpha-beta pruning scores candidate moves using a board evaluation function. |
 | **[Gmail Cleaner](https://github.com/MRL-creator/gmail-cleaner)**<br><sub>AUTOMATION · JavaScript / Google Apps Script</sub> | Trash older verification codes and login links in bounded batches. Dry-run mode previews changes, with checks to skip starred and important messages. |
+
+### Behind the projects
+
+- **[Attendance Workspace case study](https://github.com/MRL-creator/attendance-workspace/blob/main/docs/case-study.md)** — application design, access rules, and a reproducible reduction from 100 roster requests to one in a synthetic benchmark.
+- **[Earthquake Explorer case study](https://github.com/MRL-creator/earthquake-data-explorer/blob/main/docs/case-study.md)** — offline-first catalog exploration with independently checked summaries.
+- **[Signal Analyzer case study](https://github.com/MRL-creator/seismic-signal-analyzer/blob/main/docs/case-study.md)** — known-frequency validation and explicit signal-processing assumptions.
+- **[Wave Simulator case study](https://github.com/MRL-creator/seismic-wave-simulator/blob/main/docs/case-study.md)** — a numerical grid comparison, including the coarse model's limitations.
 
 <details>
 <summary>More projects</summary>
